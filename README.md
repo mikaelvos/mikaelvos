@@ -7,7 +7,7 @@ I go by He/Him or They/Them pronouns and I prefer dogs over cats 🐕
 
 Want to know more? Check out my [Very Cool Super Awesome Definitely All Done and Mega Accessible (lying)](https://www.mikavanos.nl) website :)
 
-You can reach me under the E-mail address [contact@mikavanos.nl](contact@mikavanos.nl)  
+You can reach me under the E-mail address [contact@mikavanos.nl] 
 
 ## What brought me here?
 
