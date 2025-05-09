@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello World 🌍
 
-<!--
-**Os773/Os773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+My name is Mika, I'm currently a first year student at my university, learning all about Information and Communication Technologies (ICT)  
+I go by He/Him or They/Them pronouns and I prefer dogs over cats 🐕  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to know more? Check out my [Very Cool Super Awesome Definitely All Done and Mega Accessible (lying)](https://www.mikavanos.nl) website :)
+
+You can reach me under the E-mail address [contact@mikavanos.nl](contact@mikavanos.nl)  
+
+## What brought me here?
+
+This GitHub profile was initially created purely for the projects related to this course, but as was only natural I've sort of fallen in love with it and will be using this page for personal projects, too.
+
+## What am I working on?
+
+As mentioned above, most of the comomits here will be related to me working on projects for Uni, but perhaps you'll see creative projects pop up too. 
+
+Here's a list of languages and Frameworks I've been familiarizing myself with so far, though!
+
+### Languages:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- PHP
+
+### Frameworks:
+- Laravel
+- TailwindCSS
+- BulmaCSS
+
+## What do I hope to learn?
+
+Front-End developing is currently really interesting to me. I want to learn to work with more frameworks to bring my ideas to life within websites and projects.
+
+### I look forward to working with you all! ✨
