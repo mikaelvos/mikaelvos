@@ -25,6 +25,7 @@ Here's a list of languages and Frameworks I've been familiarizing myself with so
 - JavaScript
 - TypeScript
 - PHP
+- Python
 
 ### Frameworks:
 - Laravel
