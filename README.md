@@ -5,10 +5,6 @@
 My name is Mika, I'm currently a first year student at my university, learning all about Information and Communication Technologies (ICT)  
 I go by He/Him or They/Them pronouns and I prefer dogs over cats 🐕  
 
-Want to know more? Check out my [Very Cool Super Awesome Definitely All Done and Mega Accessible (lying)](https://www.mikavanos.nl) website :)
-
-You can reach me under the E-mail address [contact@mikavanos.nl] 
-
 ## What brought me here?
 
 This GitHub profile was initially created purely for the projects related to this course, but as was only natural I've sort of fallen in love with it and will be using this page for personal projects, too.
