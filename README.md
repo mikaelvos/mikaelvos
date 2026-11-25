@@ -15,12 +15,13 @@ As mentioned above, most of the comomits here will be related to me working on p
 
 Here's a list of languages and Frameworks I've been familiarizing myself with so far, though!
 
-### Languages:
+### Languages I have aqquaintance with:
 - HTML
 - CSS
 - JavaScript
 - TypeScript
 - PHP
+- Java
 - Python
 
 ### Frameworks:
